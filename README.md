@@ -43,3 +43,69 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * AdvDrop: Adversarial Attack to DNNs by Dropping Information
 
 * Adversarial Attack on Deep Cross-Modal Hamming Retrieval
+
+
+* Exploiting Explanations for Model Inversion Attacks
+
+
+* Feature Importance-Aware Transferable Adversarial Attacks
+
+
+* Black-Box Detection of Backdoor Attacks With Limited Information and Data
+
+
+* Knowledge-Enriched Distributional Model Inversion Attacks
+
+
+* Membership Inference Attacks Are Easier on Difficult Problems
+
+
+* Adversarial Attacks Are Reversible With Natural Supervision
+
+* Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective
+
+
+* Sample Efficient Detection and Classification of Adversarial Attacks via Self-Supervised Embeddings
+
+
+* TkML-AP: Adversarial Attacks to Top-k Multi-Label Learning
+
+
+* Augmented Lagrangian Adversarial Attacks
+
+
+* Detection and Continual Learning of Novel Face Presentation Attacks
+
+
+* Consistency-Sensitivity Guided Ensemble Black-Box Adversarial Attacks in Low-Dimensional Spaces
+
+
+* PointBA: Towards Backdoor Attacks in 3D Point Cloud
+
+
+* Admix: Enhancing the Transferability of Adversarial Attacks
+
+* LIRA: Learnable, Imperceptible and Robust Backdoor Attacks
+
+* Adversarial Attacks on Multi-Agent Communication
+
+* Triggering Failures: Out-of-Distribution Detection by Learning From Local Adversarial Attacks in Semantic Segmentation
+
+* Exploiting Multi-Object Relationships for Detecting Adversarial Attacks in Complex Scenes
+
+
+* Improving Robustness of Facial Landmark Detection by Defending Against Adversarial Attacks
+
+
+* Interpreting Attributions and Interactions of Adversarial Attacks
+
+
+
+
+
+
+
+
+
+
+
