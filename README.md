@@ -60,7 +60,6 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 
 
-* Sample Efficient Detection and Classification of Adversarial Attacks via Self-Supervised Embeddings
 
 
 * TkML-AP: Adversarial Attacks to Top-k Multi-Label Learning
@@ -95,7 +94,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Adversarial Attacks Are Reversible With Natural Supervision
 * Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective
   * [code](https://github.com/YiZeng623/frequency-backdoor) 
-
+* Sample Efficient Detection and Classification of Adversarial Attacks via Self-Supervised Embeddings   `exp`
 
 ### Adv train
 * Improving Robustness of Facial Landmark Detection by Defending Against Adversarial Attacks
