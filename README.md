@@ -29,6 +29,8 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 * Membership Inference Attacks Are Easier on Difficult Problems `Membership Inference Attacks`
 
+* Knowledge-Enriched Distributional Model Inversion Attacks `Model Inversion Attacks`
+  * [code]( https://github.com/SCccc21/Knowledge-Enriched-DMI)
 
 * Aha! Adaptive History-Driven Attack for Decision-Based Black-Box Models
 
@@ -78,8 +80,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 
 
-* Knowledge-Enriched Distributional Model Inversion Attacks
-  * [code]( https://github.com/SCccc21/Knowledge-Enriched-DMI)
+
 
 
 
