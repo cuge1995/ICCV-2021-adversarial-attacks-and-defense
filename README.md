@@ -27,6 +27,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 * Adversarial Attacks on Multi-Agent Communication
 
+* Membership Inference Attacks Are Easier on Difficult Problems `Membership Inference Attacks`
 
 
 * Aha! Adaptive History-Driven Attack for Decision-Based Black-Box Models
@@ -80,7 +81,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Knowledge-Enriched Distributional Model Inversion Attacks
 
 
-* Membership Inference Attacks Are Easier on Difficult Problems
+
 
 
 * Adversarial Attacks Are Reversible With Natural Supervision
