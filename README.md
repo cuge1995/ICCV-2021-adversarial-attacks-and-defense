@@ -23,9 +23,9 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 * Parallel Rectangle Flip Attack: A Query-Based Black-Box Attack Against Object Detection `Object Detection`
 
+* Practical Relative Order Attack in Deep Ranking `Ranking`
 
-
-
+* Adversarial Attacks on Multi-Agent Communication
 
 
 
@@ -50,7 +50,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Attack-Guided Perceptual Data Generation for Real-World Re-Identification
 
 
-* Practical Relative Order Attack in Deep Ranking
+
 
 
 
@@ -74,7 +74,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Feature Importance-Aware Transferable Adversarial Attacks
 
 
-* Black-Box Detection of Backdoor Attacks With Limited Information and Data
+
 
 
 * Knowledge-Enriched Distributional Model Inversion Attacks
@@ -110,7 +110,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 * LIRA: Learnable, Imperceptible and Robust Backdoor Attacks
 
-* Adversarial Attacks on Multi-Agent Communication
+
 
 * Triggering Failures: Out-of-Distribution Detection by Learning From Local Adversarial Attacks in Semantic Segmentation
 
@@ -126,6 +126,10 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 ### Detection adv
 * Multi-Expert Adversarial Attack Detection in Person Re-Identification Using Context Inconsistency
+* Black-Box Detection of Backdoor Attacks With Limited Information and Data
+
+
+
 
 ### Adv train
 * Improving Robustness of Facial Landmark Detection by Defending Against Adversarial Attacks
