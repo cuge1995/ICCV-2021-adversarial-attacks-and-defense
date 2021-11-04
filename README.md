@@ -79,7 +79,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 
 * Knowledge-Enriched Distributional Model Inversion Attacks
-
+  * [code]( https://github.com/SCccc21/Knowledge-Enriched-DMI)
 
 
 
