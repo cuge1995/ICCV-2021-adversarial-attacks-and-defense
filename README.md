@@ -17,7 +17,16 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Meta Gradient Adversarial Attack
 
 ### other tasks
-* Adversarial Attack on Deep Cross-Modal Hamming Retrieval
+* Adversarial Attack on Deep Cross-Modal Hamming Retrieval `Hamming Retrieval`
+
+* Just One Moment: Structural Vulnerability of Deep Action Recognition Against One Frame Attack `Action Recognition`
+
+* Parallel Rectangle Flip Attack: A Query-Based Black-Box Attack Against Object Detection `Object Detection`
+
+
+
+
+
 
 
 * Aha! Adaptive History-Driven Attack for Decision-Based Black-Box Models
@@ -44,13 +53,12 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Practical Relative Order Attack in Deep Ranking
 
 
-* Just One Moment: Structural Vulnerability of Deep Action Recognition Against One Frame Attack
+
 
 
 * AGKD-BML: Defense Against Adversarial Attack by Attention Guided Knowledge Distillation and Bi-Directional Metric Learning
 
 
-* Parallel Rectangle Flip Attack: A Query-Based Black-Box Attack Against Object Detection
 
 
 * ProFlip: Targeted Trojan Attack With Progressive Bit Flips
