@@ -53,32 +53,11 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Attack-Guided Perceptual Data Generation for Real-World Re-Identification
 
 
-
-
-
-
-
-
 * AGKD-BML: Defense Against Adversarial Attack by Attention Guided Knowledge Distillation and Bi-Directional Metric Learning
-
-
-
 
 * ProFlip: Targeted Trojan Attack With Progressive Bit Flips
 
 
-
-
-
-
-
-
-
-
-
-* Adversarial Attacks Are Reversible With Natural Supervision
-
-* Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective
 
 
 * Sample Efficient Detection and Classification of Adversarial Attacks via Self-Supervised Embeddings
@@ -95,14 +74,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 * Consistency-Sensitivity Guided Ensemble Black-Box Adversarial Attacks in Low-Dimensional Spaces
 
-
-
-
-
-
-
 * LIRA: Learnable, Imperceptible and Robust Backdoor Attacks
-
 
 
 * Triggering Failures: Out-of-Distribution Detection by Learning From Local Adversarial Attacks in Semantic Segmentation
@@ -120,8 +92,9 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 ### Detection adv
 * Multi-Expert Adversarial Attack Detection in Person Re-Identification Using Context Inconsistency
 * Black-Box Detection of Backdoor Attacks With Limited Information and Data
-
-
+* Adversarial Attacks Are Reversible With Natural Supervision
+* Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective
+  * [code](https://github.com/YiZeng623/frequency-backdoor) 
 
 
 ### Adv train
