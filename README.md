@@ -41,30 +41,19 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 * Data-Free Universal Adversarial Perturbation and Black-Box Attack
 
-
 * Attack As the Best Defense: Nullifying Image-to-Image Translation GANs via Limit-Aware Adversarial Attack
-
 
 * Invisible Backdoor Attack With Sample-Specific Triggers
 
-
 * Meta-Attack: Class-Agnostic and Model-Agnostic Physical Adversarial Attack
 
-
 * Attack-Guided Perceptual Data Generation for Real-World Re-Identification
-
 
 * AGKD-BML: Defense Against Adversarial Attack by Attention Guided Knowledge Distillation and Bi-Directional Metric Learning
 
 * ProFlip: Targeted Trojan Attack With Progressive Bit Flips
 
 * Augmented Lagrangian Adversarial Attacks
-
-
-* Detection and Continual Learning of Novel Face Presentation Attacks
-
-
-
 
 * LIRA: Learnable, Imperceptible and Robust Backdoor Attacks
 
@@ -85,6 +74,8 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective
   * [code](https://github.com/YiZeng623/frequency-backdoor) 
 * Sample Efficient Detection and Classification of Adversarial Attacks via Self-Supervised Embeddings   `exp`
+* Detection and Continual Learning of Novel Face Presentation Attacks
+
 
 ### Adv train
 * Improving Robustness of Facial Landmark Detection by Defending Against Adversarial Attacks
