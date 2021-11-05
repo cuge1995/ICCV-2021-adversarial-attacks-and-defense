@@ -7,6 +7,7 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * AdvDrop: Adversarial Attack to DNNs by Dropping Information
 * Admix: Enhancing the Transferability of Adversarial Attacks
 * Feature Importance-Aware Transferable Adversarial Attacks
+* Consistency-Sensitivity Guided Ensemble Black-Box Adversarial Attacks in Low-Dimensional Spaces
 
 ### detection
 
@@ -57,21 +58,13 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 
 * ProFlip: Targeted Trojan Attack With Progressive Bit Flips
 
-
-
-
-
-
-
-
-
 * Augmented Lagrangian Adversarial Attacks
 
 
 * Detection and Continual Learning of Novel Face Presentation Attacks
 
 
-* Consistency-Sensitivity Guided Ensemble Black-Box Adversarial Attacks in Low-Dimensional Spaces
+
 
 * LIRA: Learnable, Imperceptible and Robust Backdoor Attacks
 
@@ -79,9 +72,6 @@ ICCV 2021 papers and code focus on adversarial attacks and defense
 * Triggering Failures: Out-of-Distribution Detection by Learning From Local Adversarial Attacks in Semantic Segmentation
 
 * Exploiting Multi-Object Relationships for Detecting Adversarial Attacks in Complex Scenes
-
-
-
 
 
 * Interpreting Attributions and Interactions of Adversarial Attacks
